@@ -1,3 +1,4 @@
+
 body {
     background-color: #F9FAFC;
 }
@@ -89,6 +90,11 @@ body {
     -moz-transform: skew(15deg);
     transform: skew(15deg);
     z-index: 100;
+}
+
+
+.profile-image {
+    width: 75%;
 }
 
 .post-link {
